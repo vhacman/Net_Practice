@@ -67,3 +67,9 @@ Obiettivo: subnetting avanzato e routing multiplo.
 * **Subnet mask** → definisce dimensione della rete.
 * **Gateway** → router che collega più reti.
 * **Route** → regola per indirizzare pacchetti verso altre reti.
+
+* 
+## 👤 Author
+**vhacman**
+- 42 Intra Profile: [vhacman](https://profile.intra.42.fr/)
+
