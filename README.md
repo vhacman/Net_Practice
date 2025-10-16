@@ -1,3 +1,9 @@
+![Score](https://img.shields.io/badge/Score-/100-brightgreen?style=for-the-badge)
+[![42 Project](https://img.shields.io/badge/42%20Project-libft-blue?style=for-the-badge&logo=42)](https://github.com/vhacman/libft)
+[![License](https://img.shields.io/badge/license-42%20Project-informational?style=for-the-badge)]()
+[![Status](https://img.shields.io/badge/42%20status-Completed-brightgreen?style=for-the-badge)]()
+[![Created](https://img.shields.io/badge/Created-October_2025-blue?style=for-the-badge)]()
+
 # NetPractice — Livelli 1-10
 
 ## Descrizione generale
